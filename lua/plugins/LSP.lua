@@ -5,6 +5,7 @@ return {
       gopls = {},
       tsserver = {},
       emmet_language_server = {},
+      svelte = {},
     },
   },
 }
