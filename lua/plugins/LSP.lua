@@ -6,6 +6,8 @@ return {
       tsserver = {},
       emmet_language_server = {},
       svelte = {},
+      tailwindcss = {},
+      lua_ls = {},
     },
   },
 }
